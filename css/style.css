@@ -1,0 +1,15 @@
+#img-div{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    margin: 1rem 0;
+    padding: 5% 10% 0 10%;
+}
+
+#image{
+    width: 100%;
+    height: auto; 
+    max-width: 600px;
+}
